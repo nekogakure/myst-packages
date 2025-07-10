@@ -1,0 +1,15 @@
+[lib]
+name = "lib_name"
+owner = "owner_name"
+organization = "org_name"
+description = "description"
+contact = "info@example.com"
+lisense = "lisense"
+
+[version]
+latest_version = "latest_version"
+version_index = [
+  "1.0.0",
+  "1.0.1",
+  "1.0.2",
+]
